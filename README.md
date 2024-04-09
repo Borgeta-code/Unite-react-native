@@ -4,6 +4,13 @@ O Pass.in é uma aplicação de **gestão de participantes em eventos presenciai
 
 Esse repositório contém o aplicativo criado durante o NLW UNITE da [Rocketseat](https://www.rocketseat.com.br/), na trilha de react native!
 
+
+### 🌞 Demonstração
+
+
+https://github.com/Borgeta-code/Unite-react-native/assets/107590628/aede2e52-4735-46e5-87da-adb879e54411
+
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
@@ -33,7 +40,8 @@ npm install
 npm run start
 ```
 
-assim seu projeto estará pronto, podendo ser acessado com o app Expo na sua rede local.
+Assim, seu projeto estará pronto, podendo ser acessado com o app Expo na sua rede local.
+
 
 ## 🛠️ Construído com
 
